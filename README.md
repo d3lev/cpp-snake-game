@@ -3,13 +3,13 @@
 ## Project Overview:
 
 A simple snake game based off of a video tutorial and a raylib template (with my own coding and design decisions altering it).
-Video: https://youtu.be/LGqsnM_WEK4?si=4Nqa-_icB1Q4gpKn
-Raylib Template: https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE
+1. Video: https://youtu.be/LGqsnM_WEK4?si=4Nqa-_icB1Q4gpKn
+2. Raylib Template: https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE
 
 ## Tech Stack:
-**Language:** C++
-**Library:** raylib
-**Made In:** VS Code
+**1. Language:** C++
+**2. Library:** raylib
+**3. Made In:** VS Code
 
 ## Features/Gameplay:
 
