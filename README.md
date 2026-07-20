@@ -18,9 +18,11 @@ Features a game over screen when you die.
 
 ## How to play:
 
-1. Open the project folder in VScode via 'main.code-workspace' (make sure you have raylib environment configured!)
-2. Press 'F5' to compile and run.
-3. Enjoy!
+1. Extract the ZIP file wherever you want.
+2. Rename "vscode" folder to ".vscode" (Github doesnt let me upload it normally).
+3. Open the project folder in VScode via 'main.code-workspace' (make sure you have raylib environment configured!)
+4. Press 'F5' to compile and run.
+5. Enjoy!
 
 ## Known bugs:
 
