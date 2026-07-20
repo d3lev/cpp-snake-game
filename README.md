@@ -15,6 +15,7 @@ A simple snake game based off of a video tutorial and a raylib template (with my
 
 Extremely barebones and simple. has a score counter on the bottom right of the border.
 Features a game over screen when you die.
+Both WASD and arrow keys are supported!
 
 ## How to play:
 
@@ -33,6 +34,7 @@ Features a game over screen when you die.
 1. High Score overall during the session
 2. Sound effects and music
 3. Gamemodes based on speed (Fast (default), Slow, Super Fast)
+4. Pause feature (when pressing Space or Esc, probably will repurpose the Game Over screen)
 
 ## Was AI used?
 
